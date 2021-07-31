@@ -4,3 +4,4 @@
 2. Crear la liga de la justicia
 3. To look for new members for the league
 4. We need more food
+5. We need to investigate the enemy's work.
