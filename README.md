@@ -1,3 +1,3 @@
-# Reason
+# Notes
 
-This repository is used for testing.
+This file is responsible for managing the plans of the Justice League.
