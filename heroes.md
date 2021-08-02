@@ -6,3 +6,6 @@
 * Mujer Maravilla
 * Linterna verde
 * Robin
+
+* Deadshot
+* Stiderman
