@@ -7,5 +7,4 @@
 * Linterna verde
 * Robin
 
-* Deadshot
 * Stiderman
