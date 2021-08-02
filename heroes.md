@@ -6,3 +6,5 @@
 * Mujer Maravilla
 * Linterna verde
 * Robin
+
+* Stiderman
